@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "recipe_name": "Teriyaki Chicken Stir-Fry",
+    "short_description": "A delicious stir-fry with tender chicken, assorted vegetables, and a savory teriyaki sauce.",
+    "ingredients": [
+      "600 g chicken breast",
+      "150 ml teriyaki sauce",
+      "250 g broccoli"
+    ],
+    "preparing_time": 35,
+    "calories": 350,
+    "recipe_image": "https://r2.easyimg.io/vxdpsk8qv/stir-fry-chicken-sweet-peppers-green-beans.jpg"
+  },
+  {
+    "id": 2,
+    "recipe_name": "Mushroom & Spinach Pasta Primavera",
+    "short_description": "A vibrant pasta dish featuring mushrooms, spinach, and a medley of fresh vegetables, tossed in olive oil.",
+    "ingredients": ["350 g pasta", "3 cups mixed mushrooms"],
+    "preparing_time": 30,
+    "calories": 280,
+    "recipe_image": "https://r2.easyimg.io/u4xuwfd2h/pasta-fusilli-with-tomato-broccoli-earthenware.jpg"
+  },
+  {
+    "id": 3,
+    "recipe_name": "Spicy Beef Tacos",
+    "short_description": "Tantalizing tacos filled with seasoned spicy beef, crunchy lettuce, and melted cheese, topped with salsa.",
+    "ingredients": [
+      "450 g ground beef",
+      "10 taco shells",
+      "2 cups shredded lettuce",
+      "1 1/2 cups shredded cheese"
+    ],
+    "preparing_time": 25,
+    "calories": 420,
+    "recipe_image": "https://r2.easyimg.io/chl84aqa5/fresh-beef-taco-wooden-table-with-sauce-generative-ai.jpg"
+  },
+  {
+    "id": 4,
+    "recipe_name": "Mozzarella Tomato Salad",
+    "short_description": "An exquisite salad showcasing ripe tomatoes, fresh mozzarella, and aromatic basil drizzled with balsamic glaze.",
+    "ingredients": [
+      "5 ripe tomatoes",
+      "250 g fresh mozzarella balls",
+      "1/2 cup fresh basil leaves",
+      "3 tbsp balsamic glaze"
+    ],
+    "preparing_time": 20,
+    "calories": 200,
+    "recipe_image": "https://r2.easyimg.io/txg9j2x6p/caprese-salad-with-mozzarella-cheese.jpg"
+  },
+  {
+    "id": 5,
+    "recipe_name": "Creamy Carbonara Pasta",
+    "short_description": "An indulgent rendition of the classic Italian pasta dish featuring creamy sauce, crispy pancetta, and Parmesan cheese.",
+    "ingredients": [
+      "350 g spaghetti",
+      "150 g pancetta",
+      "3 eggs",
+      "3/4 cup grated Parmesan cheese"
+    ],
+    "preparing_time": 40,
+    "calories": 500,
+    "recipe_image": "https://r2.easyimg.io/ayrwrmtrs/spaghetti-with-mixed-ingredients-white-plate.jpg"
+  },
+  {
+    "id": 6,
+    "recipe_name": "Grilled Salmon with Citrus Herb Sauce",
+    "short_description": "Delicious grilled salmon fillets served with a zesty citrus herb sauce, bursting with fresh flavors.",
+    "ingredients": [
+      "4 salmon fillets",
+      "1 orange",
+      "3 tbsp olive oil",
+      "3 cloves garlic"
+    ],
+    "preparing_time": 30,
+    "calories": 320,
+    "recipe_image": "https://r2.easyimg.io/1b0vmomuf/seared-scallops-with-asparagus-present-dish-refined-taste.jpg"
+  }
+]
